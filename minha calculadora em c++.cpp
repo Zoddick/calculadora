@@ -44,8 +44,6 @@ break;
 	case 4:
 printf ("A divisao e: %d\n", divisao(num1,num2));
 
-case 5:
-
 return 0;
 }
 
